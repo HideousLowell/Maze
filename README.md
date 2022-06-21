@@ -1,5 +1,3 @@
-![](src/manual/image/main.png)
-
 HOW TO BUILD:
 =============================
 #### Can be opened in Qt creator and build.
